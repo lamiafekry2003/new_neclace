@@ -1,0 +1,37 @@
+.body{
+    background-color: #f6f6f6;
+}
+.neck img{
+    width: 500px;
+    height: 550px;
+    margin-top: 10%;
+    border-radius: 10px;
+
+}
+.neck a{
+    background-color: #96bdc2 !important;
+    border: none;
+    font-size: 28px;
+    
+}
+.neck h2{
+    font-size: 60px;
+    font-weight: 600; 
+}
+.neck h6{
+    font-size: 20px;
+}
+/* form */
+#error{
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+}
+form input.click{
+    background-color: #6b92a5 !important ;
+    border: none;
+    font-size: 20PX;
+
+
+}
